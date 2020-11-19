@@ -40,11 +40,15 @@ Sounds like you? Do you want to help out? No other qualifications required!
     - Description/Instructions: 
     ```
     Hi!
-    Thanks for subscribing for a mentoring session with me. We are excited to get to know you and work with you on your current challenge.
+    Thanks for subscribing for a mentoring session with me. 
+    We are excited to get to know you and work with you on your current challenge.
 
     What's next?
 
-    Please select the date and time that works best for you. Once you’ve selected your slot you'll receive an invite with a Google Hangout link. Once the session started and we are both in, I will give you a brief intro about myself so that we can jump right into whatever you have in mind. Hopefully you can take as much as possible out of this session.
+    Please select the date and time that works best for you. 
+    Once you’ve selected your slot you'll receive an invite with a Google Hangout link. 
+    Once the session started and we are both in, I will give you a brief intro about myself so that we can jump right into whatever you have in mind. 
+    Hopefully you can take as much as possible out of this session.
 
     Looking forward to meet you.
     
