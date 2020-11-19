@@ -32,7 +32,7 @@ TalentMine is looking for friendly people to help others level up their skills a
 Sounds like you? Do you want to help out? No other qualifications required!
 
 #### How to get started
-- If you already have a TalentMine account, skip this. Otherwise [Create an account](https://talentmine.io/get-started)
+- If you already have a TalentMine account, skip this. Otherwise [create an account](https://talentmine.io/get-started)
 - Setup your Calendly account for free. You will need it to create your mentorship profile
 - Create an event on your Calendly account with the following details:
     - Event name: TalentMine - Session with `<Your first name>`
