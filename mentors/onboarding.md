@@ -57,5 +57,5 @@ Sounds like you? Do you want to help out? No other qualifications required!
     - Event link: `https://calendly.com/<yourname>/talentmine-session`
     - Event colour: Your favourite color ;)
 
-- Now that you have a TalentMine account and have created your calendly event, [create your mentorship profile](https://talentmine.io/become-a-mentor)
+- Now that you have a TalentMine account and have created your calendly event, proceed to [create your mentorship profile](https://talentmine.io/become-a-mentor)
 
