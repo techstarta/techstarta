@@ -33,5 +33,24 @@ Sounds like you? Do you want to help out? No other qualifications required!
 
 #### How to get started
 - If you already have a TalentMine account, skip this. Otherwise [Create an account](https://talentmine.io/get-started)
-- Now that you have a TalentMine account, [Become a TalentMine Mentor](https://talentmine.io/become-a-mentor)
+- Setup your Calendly account for free. You will need it to create your mentorship profile
+- Create an event on your Calendly account with the following details:
+    - Event name: TalentMine - Session with `<Your first name>`
+    - Location: Select Google Meet
+    - Description/Instructions: 
+    ```
+    Hi!
+    Thanks for subscribing for a mentoring session with me. We are excited to get to know you and work with you on your current challenge.
+
+    What's next?
+
+    Please select the date and time that works best for you. Once you’ve selected your slot you'll receive an invite with a Google Hangout link. Once the session started and we are both in, I will give you a brief intro about myself so that we can jump right into whatever you have in mind. Hopefully you can take as much as possible out of this session.
+
+    Looking forward to meet you.
+    
+    `<Your first name>`
+    ```
+    - Event link: https://calendly.com/<yourname>/talentmine-session
+
+- Now that you have a TalentMine account and have created your calendly event, [Create your mentorship profile](https://talentmine.io/become-a-mentor)
 
