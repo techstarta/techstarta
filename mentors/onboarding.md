@@ -50,8 +50,8 @@ Sounds like you? Do you want to help out? No other qualifications required!
     
     <Your first name>
     ```
-    - Event link: https://calendly.com/<yourname>/talentmine-session
+    - Event link: `https://calendly.com/<yourname>/talentmine-session`
     - Event colour: Your favourite color ;)
 
-- Now that you have a TalentMine account and have created your calendly event, [Create your mentorship profile](https://talentmine.io/become-a-mentor)
+- Now that you have a TalentMine account and have created your calendly event, [create your mentorship profile](https://talentmine.io/become-a-mentor)
 
