@@ -48,7 +48,7 @@ Sounds like you? Do you want to help out? No other qualifications required!
 
     Looking forward to meet you.
     
-    `<Your first name>`
+    <Your first name>
     ```
     - Event link: https://calendly.com/<yourname>/talentmine-session
     - Event colour: Your favourite color ;)
