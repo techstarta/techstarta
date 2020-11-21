@@ -46,7 +46,7 @@ Sounds like you? Do you want to help out? No other qualifications required!
     What's next?
 
     Please select the date and time that works best for you. 
-    Once you’ve selected your slot you'll receive an invite with a Google Hangout link. 
+    Once you’ve selected your slot you'll receive an invite with a Google Meet link. 
     Once the session started and we are both in, I will give you a brief intro about myself so that we can jump right into whatever you have in mind. 
     Hopefully you can take as much as possible out of this session.
 
