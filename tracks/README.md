@@ -6,7 +6,7 @@ Talentmine Tracks are collection of curated resources organised in a easy to fol
 
 A track is a collection of courses. A course is bite-sized content for learning a particular concept. A course could be an article, list of articles, videos, podcast or a combination of all three.
 
-#### How to create a track
+#### Code of Conduct / How to Contribute
 
 - The first step is to fork this repository
 - Create a new directory for the new track in the tracks directory e.g `frontend-development`
@@ -17,6 +17,7 @@ A track is a collection of courses. A course is bite-sized content for learning 
     - Each resource could be an article or video or book you authored. It could also be a content that create by someone else but highly recommend. 
 
 - We want to keep each track as succinct as possible a track should have a maximum of 10 courses.
+- To contribute to an existing track, simply create branch off the main branch to add your changes. Create a pull request to get your changes merged.
 
 - Got questions? Send an email to talentmine@gmail.com
 
