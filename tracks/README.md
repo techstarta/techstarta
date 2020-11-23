@@ -19,6 +19,6 @@ A track is a collection of courses. A course is bite-sized content for learning 
 - We want to keep each track as succinct as possible a track should have a maximum of 10 courses.
 - To contribute to an existing track, simply create branch off the main branch to add your changes. Create a pull request to get your changes merged.
 
-- Got questions? Send an email to talentmine@gmail.com
+- Got questions? Shoot us an email at talentmine@gmail.com
 
 Happy Curating!
