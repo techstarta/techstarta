@@ -1,4 +1,4 @@
-## Become a Talentmine Mentor
+## Become a Techstarta Mentor
 
 #### Help others level up their skills
 
