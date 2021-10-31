@@ -6,7 +6,7 @@ TalentMine is looking for friendly people to help others level up their skills a
 
 #### What mentors do to help
 
-- A learner joins a track on Talentmine and submits a solution to a challenge.
+- A learner joins a track on Techstarta and submits a solution to a challenge.
 - A Mentor gives feedback and guides the learner to a more idiomatic solution, helping them become more proficient.
 - With the help of mentors, learners complete their track lesson and challenges achieve competency in a new field.
 
@@ -32,10 +32,10 @@ TalentMine is looking for friendly people to help others level up their skills a
 Sounds like you? Do you want to help out? No other qualifications required!
 
 #### How to get started
-- If you already have a TalentMine account, skip this. Otherwise [create an account](https://talentmine.io/get-started)
+- If you already have a Techstarta account, skip this. Otherwise [create an account](https://techstarta.com/get-started)
 - Setup your Calendly account for free. You will need it to create your mentorship profile
 - Create an event on your Calendly account with the following details:
-    - Event name: TalentMine - Session with `<Your first name>`
+    - Event name: Techstarta - Session with `<Your first name>`
     - Location: Select Google Meet
     - Description/Instructions: 
     ```
@@ -54,8 +54,8 @@ Sounds like you? Do you want to help out? No other qualifications required!
     
     <Your first name>
     ```
-    - Event link: `https://calendly.com/<yourname>/talentmine-session`
+    - Event link: `https://calendly.com/<yourname>/techstarta-session`
     - Event colour: Your favourite color ;)
 
-- Now that you have a TalentMine account and have created your calendly event, proceed to [create your mentorship profile](https://talentmine.io/become-a-mentor)
+- Now that you have a Techstarta account and have created your calendly event, proceed to [create your mentorship profile](https://techstarta.com/become-a-mentor)
 
