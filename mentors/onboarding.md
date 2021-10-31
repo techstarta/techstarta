@@ -2,7 +2,7 @@
 
 #### Help others level up their skills
 
-TalentMine is looking for friendly people to help others level up their skills and build a successful career in tech. If you consider yourself as an expert in your field and like helping others, then this is for you.
+Techstarta is looking for friendly people to help others level up their skills and build a successful career in tech. If you consider yourself as an expert in your field and like helping others, then this is for you.
 
 #### What mentors do to help
 
