@@ -13,8 +13,14 @@ A structured collection of **learning resources and hands-on projects** to help 
 
 ---
 
-## 📂 **Repository Structure**
-📦 techstarta-curated-learning │── 📜 README.md # Overview of the repository │── 📜 CONTRIBUTING.md # Guidelines for contributing │── 📜 LICENSE.md # Open-source license (if applicable) │── 📂 backend-development/ # Backend learning path + projects │── 📂 frontend-development/ # Frontend learning path + projects │── 📂 product-design/ # Product design resources + projects │── 📂 product-management/ # Product management track │── 📂 data-analytics/ # Data analytics resources │── 📂 shared-resources/ # Common career & learning materials │── 📂 community/ # Guidelines for contributions & discussions
+## 📚 **Explore Tracks**  
+
+🔹 **[Backend Development](./backend-development/README.md)** – Build the foundations of web applications.  
+🔹 **[Frontend Development](./frontend-development/README.md)** – Create intuitive and user-friendly interfaces.  
+🔹 **[Product Design](./product-design/README.md)** – Design visually appealing and functional digital products.  
+🔹 **[Product Management](./product-management/README.md)** – Manage the lifecycle of successful products.  
+🔹 **[Data Analytics](./data-analytics/README.md)** – Learn to analyze and interpret data effectively.  
+🔹 **[Shared Resources](./shared-resources/README.md)** – Career advice, learning tools, and interview prep.  
 
 ---
 
